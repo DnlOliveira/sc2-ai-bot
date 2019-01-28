@@ -1,0 +1,8 @@
+# virtualenv directory
+venv/
+
+# ide
+.idea/
+
+# other files
+.DS_Store
